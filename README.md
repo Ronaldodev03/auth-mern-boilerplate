@@ -1,5 +1,7 @@
 # MERN Authentication Boilerplate
 
+![MERN Auth UI](Screenshot%202025-11-30%20052654.png)
+
 Sistema de autenticacion completo y seguro construido con MongoDB, Express, React y Node.js. Este boilerplate implementa las mejores practicas de la industria para la autenticacion de usuarios.
 
 ## Caracteristicas
